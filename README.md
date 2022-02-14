@@ -26,4 +26,4 @@ This equates to 90,398 total possible retirees. This signifies that their is a h
 Based on the analysis found above, a total of 90,398 positions could open up due to the silver tsunami. As such, management should anticipate a total of 90,398 roles will need to be filled over the coming years.
 
 ### Qualified Mentors:
-![This is an image]
+![This is an image](https://github.com/nbhatia1014/Pewlett-Hackard-Analysis./blob/main/Mentor%20by%20Title.PNG)

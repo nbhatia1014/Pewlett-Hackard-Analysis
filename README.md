@@ -17,5 +17,7 @@ Shown above is the overview of the silver tsunami. From the data above we can as
 - 8,047 Senior Staff;
 - 4,502 Technique Leaders;
 - 1,761 Assistant Engineers;
-- 
+
+This equates to 90,398 total possible retirees. This signifies that their is a high percentage of the workforce that could retire at any time.
+
 ## Summary:

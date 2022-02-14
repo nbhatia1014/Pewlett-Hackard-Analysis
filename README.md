@@ -8,7 +8,7 @@ The purpose of this assignment is to help Bobby with two more assignments: deter
 ## Results:
 
 ### Analysis:
-!ThisIsAnImaged("https://github.com/nbhatia1014/Pewlett-Hackard-Analysis./blob/main/Retirement.png")
+!ThisIsAnImage("https://github.com/nbhatia1014/Pewlett-Hackard-Analysis./blob/main/Retirement.png")
 
 
 ### Analysis:

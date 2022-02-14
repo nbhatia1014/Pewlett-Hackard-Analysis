@@ -47,3 +47,10 @@ Left outer Join titles as t
 ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
+
+-- Extra Deliverables: Summarize Mentorship by Title
+SELECT COUNT(title), title
+INTO mentorship_eligibilty_titles
+FROM mentorship_eligibilty
+GROUP BY title
+ORDER BY COUNT(title) DESC;

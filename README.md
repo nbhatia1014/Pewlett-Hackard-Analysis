@@ -10,7 +10,12 @@ The purpose of this assignment is to help Bobby with two more assignments: deter
 ### Analysis:
 ![This is an image](https://github.com/nbhatia1014/Pewlett-Hackard-Analysis./blob/main/Retirement.png)
 
-
-### Analysis:
-
+Shown above is the overview of the silver tsunami. From the data above we can assume the following:
+- 32,452 Staff;
+- 29,415 Senior Engineers;
+- 14,221 Engineers;
+- 8,047 Senior Staff;
+- 4,502 Technique Leaders;
+- 1,761 Assistant Engineers;
+- 
 ## Summary:

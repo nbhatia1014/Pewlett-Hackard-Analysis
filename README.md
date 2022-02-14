@@ -21,3 +21,13 @@ Shown above is the overview of the silver tsunami. From the data above we can as
 This equates to 90,398 total possible retirees. This signifies that their is a high percentage of the workforce that could retire at any time.
 
 ## Summary:
+
+### Required Workforce:
+Based on the analysis found above, a total of 90,398 positions could open up due to the silver tsunami. As such, management should anticipate a total of 90,398 roles will need to be filled over the coming years.
+
+### Qualified Mentors:
+![This is an image](https://github.com/nbhatia1014/Pewlett-Hackard-Analysis./blob/main/Mentor%20by%20Title.PNG)
+
+Shown above is the summary table I created for the Qualified Mentors program. This totals 1,940 total mentors. This is not nearly enough mentors to help fill the roles. 
+
+If I had a better understanding of this style of coding, I would try to have my second querie be the delta of total possible retirees and the total possible mentors. However, I ran into issues and could not perform said analysis.
